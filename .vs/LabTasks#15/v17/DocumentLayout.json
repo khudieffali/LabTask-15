@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\LabTasks#15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09496CE-B057-4FDD-B645-B69A2D98F3A6}|LabTasks#15\\LabTasks#15.csproj|d:\\praktikant\\garagetask\\labtasks#15\\labtasks#15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09496CE-B057-4FDD-B645-B69A2D98F3A6}|LabTasks#15\\LabTasks#15.csproj|solutionrelative:labtasks#15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09496CE-B057-4FDD-B645-B69A2D98F3A6}|LabTasks#15\\LabTasks#15.csproj|d:\\praktikant\\garagetask\\labtasks#15\\labtasks#15\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09496CE-B057-4FDD-B645-B69A2D98F3A6}|LabTasks#15\\LabTasks#15.csproj|solutionrelative:labtasks#15\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09496CE-B057-4FDD-B645-B69A2D98F3A6}|LabTasks#15\\LabTasks#15.csproj|d:\\praktikant\\garagetask\\labtasks#15\\labtasks#15\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09496CE-B057-4FDD-B645-B69A2D98F3A6}|LabTasks#15\\LabTasks#15.csproj|solutionrelative:labtasks#15\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTasks#15\\LabTasks#15\\Program.cs",
+              "RelativeDocumentMoniker": "LabTasks#15\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTasks#15\\LabTasks#15\\Program.cs",
+              "RelativeToolTip": "LabTasks#15\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:31:29.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTasks#15\\LabTasks#15\\Exam.cs",
+              "RelativeDocumentMoniker": "LabTasks#15\\Exam.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTasks#15\\LabTasks#15\\Exam.cs",
+              "RelativeToolTip": "LabTasks#15\\Exam.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:35:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTasks#15\\LabTasks#15\\Student.cs",
+              "RelativeDocumentMoniker": "LabTasks#15\\Student.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTasks#15\\LabTasks#15\\Student.cs",
+              "RelativeToolTip": "LabTasks#15\\Student.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwEEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:32:32.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
